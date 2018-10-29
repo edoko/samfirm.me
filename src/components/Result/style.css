@@ -1,0 +1,8 @@
+.paper-result {
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.value {
+  word-break: break-all;
+}

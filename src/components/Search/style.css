@@ -1,0 +1,26 @@
+.paper {
+  padding: 20px;
+}
+
+.div-btn {
+  margin-top: 25px;
+  margin-left: 40px;
+  display: inline-block;
+}
+
+.form-control {
+  margin-top: 16px !important;
+  margin-left: 10px !important;
+}
+
+@media (max-width: 600px) {
+  .search-field,
+  .form-control {
+    margin: 0 !important;
+    display: block !important;
+  }
+
+  .div-btn {
+    margin-left: 0;
+  }
+}
